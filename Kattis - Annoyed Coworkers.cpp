@@ -1,3 +1,5 @@
+//https://nus.kattis.com/problems/annoyedcoworkers
+
 #include <iostream>
 #include <stdlib.h>
 #include <cmath>
